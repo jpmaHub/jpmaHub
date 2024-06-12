@@ -30,3 +30,5 @@ I'm looking for new job opportunities. I'm interested in roles related to Full S
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/mjaseera/)
 
 Feel free to contact me if you have any questions, want to work together, know of any job opportunities, or just want to chat about tech!
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jpmahub&layout=compact&hide=ruby,java)
