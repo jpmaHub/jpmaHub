@@ -9,27 +9,19 @@ I'm looking for new job opportunities. I'm interested in roles related to Full S
 ## Skills
 <p align="center">
   <p> Languages: </p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=typescript,js,ruby,cs" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=typescript,js,ruby,cs" />
 </p>
 <p align="center">
   <p> Frameworks & Libraries: </p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,dotnet,angular,nodejs" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=react,dotnet,angular,nodejs" />
 </p>
 <p align="center">
   <p> Frontend: </p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,materialui,styledcomponents" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=html,css,sass,materialui,styledcomponents" />
 </p>
 <p align="left">
    <p> Tools and Other: </p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=jest,git,docker,aws,postgres,postman,vim,terraform" />
-  </a>
+   <img src="https://skillicons.dev/icons?i=jest,git,docker,aws,postgres,postman,vim,terraform" />
 </p>
 
 ## Contact Me
