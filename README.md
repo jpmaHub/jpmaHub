@@ -1,16 +1,40 @@
-## Hi there 👋
+## About Me 👋
 
-<!--
-**jpmaHub/jpmaHub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! I'm Jaseera Abubacker. I'm a software developer who loves solving problems and creating new applications. I have experience in Full Stack Development, Frontend Development, and Software/Web Development. I enjoy learning new technologies and contributing to open-source projects. I am proud of what I do and always strive for excellence, pushing myself to deliver high-quality solutions that meet or exceed expectations. I'm passionate about continuous improvement and learning, constantly seeking ways to enhance my skills and deliver better results.
 
-Here are some ideas to get you started:
+## Looking for New Opportunities
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm looking for new job opportunities. I'm interested in roles related to Full Stack Development, Frontend Development, and Software/Web Development. I want to work with great teams on exciting projects where I can make an impact.
+
+## Skills
+<p align="center">
+  <p> Languages: </p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=typescript,js,ruby,cs" />
+  </a>
+</p>
+<p align="center">
+  <p> Frameworks & Libraries: </p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,dotnet,angular,nodejs" />
+  </a>
+</p>
+<p align="center">
+  <p> Frontend: </p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,sass,materialui,styledcomponents" />
+  </a>
+</p>
+<p align="left">
+   <p> Tools and Other: </p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=jest,git,docker,aws,postgres,postman,vim,terraform" />
+  </a>
+</p>
+
+## Contact Me
+
+- Email: jaseera.m@outlook.com
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/mjaseera/)
+
+Feel free to contact me if you have any questions, want to work together, know of any job opportunities, or just want to chat about tech!
