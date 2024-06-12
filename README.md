@@ -1,6 +1,6 @@
 ## About Me 👋
 
-Hello! I'm Jaseera Abubacker. I'm a software developer who loves solving problems and creating new applications. I have experience in Full Stack Development, Frontend Development, and Software/Web Development. I enjoy learning new technologies and contributing to open-source projects. I am proud of what I do and always strive for excellence, pushing myself to deliver high-quality solutions that meet or exceed expectations. I'm passionate about continuous improvement and learning, constantly seeking ways to enhance my skills and deliver better results.
+Hello! I'm Jaseera Abubacker. I've been working as a software developer for over five years, specializing in Full Stack Development, Frontend Development, and Software/Web Development. I love solving problems and creating new applications. I enjoy learning new technologies and contributing to open-source projects. I am proud of what I do and always strive for excellence, pushing myself to deliver high-quality solutions that meet or exceed expectations. I'm passionate about continuous improvement and learning, constantly seeking ways to enhance my skills and deliver better results.
 
 ## Looking for New Opportunities
 
