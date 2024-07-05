@@ -17,11 +17,11 @@ I'm interested in roles related to Full Stack Development, Frontend Development,
 </p>
 <p align="center">
   <p> Frontend: </p>
-  <img src="https://skillicons.dev/icons?i=html,css,sass,materialui,styledcomponents" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,styledcomponents" />
 </p>
 <p align="left">
    <p> Tools and Other: </p>
-   <img src="https://skillicons.dev/icons?i=jest,git,docker,aws,postgres,postman,vim,terraform" />
+   <img src="https://skillicons.dev/icons?i=jest,git,docker,aws,postgres,postman,terraform" />
 </p>
 
 ## Contact Me
