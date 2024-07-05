@@ -1,6 +1,6 @@
 # 👋  Hi I'm Jaseera 
 
-I am a full stack developer for over five years, specializing in Full Stack Development, Frontend Development, and Software/Web Development. I love solving problems and creating new applications. I enjoy learning new technologies and contributing to open-source projects. I am proud of what I do and always strive for excellence, pushing myself to deliver high-quality solutions that meet or exceed expectations. I'm passionate about continuous improvement and learning, constantly seeking ways to enhance my skills and deliver better results.
+I am a full stack developer who loves solving problems and building new applications. I enjoy learning new technologies and contributing to open-source projects. I am proud of what I do and always strive for excellence, pushing myself to deliver high-quality solutions that meet or exceed expectations. I'm passionate about continuous improvement and learning, constantly seeking ways to enhance my skills and deliver better results.
 
 ## :woman_technologist: Looking for New Opportunities
 
