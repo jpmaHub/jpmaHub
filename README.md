@@ -4,7 +4,7 @@ Hello! I'm Jaseera Abubacker. I've been working as a software developer for over
 
 ## Looking for New Opportunities
 
-I'm looking for new job opportunities. I'm interested in roles related to Full Stack Development, Frontend Development, and Software/Web Development. I want to work with great teams on exciting projects where I can make an impact.
+I'm interested in roles related to Full Stack Development, Frontend Development, and Software/Web Development. I want to work with great teams on exciting projects where I can make an impact.
 
 ## Skills
 <p align="center">
